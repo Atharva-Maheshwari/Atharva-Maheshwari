@@ -9,6 +9,12 @@
 <p align="center">
   <img src="https://github.com/raklaptudirm/raklaptudirm/blob/main/robot.svg">
 </p>
+<h1 align="center"> 🔥 Contributions: </h1>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Atharva-Maheshwari&theme=react&background=0d1117&border=666">
+  </a>
+<br>
 
 <h1 align="center"> Skills & Tools </h1>
 
