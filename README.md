@@ -1,6 +1,8 @@
 # Hello, World ! Welcome to My Profile !!
 ## I'm Atharva Maheshwari .... Student by Profession, Hustler by Passion!!
-
+<p align="center">
+  <img src="https://github.com/raklaptudirm/raklaptudirm/blob/main/robot.svg">
+</p>
 
 <h1 align="center"> Skills & Tools </h1>
 
