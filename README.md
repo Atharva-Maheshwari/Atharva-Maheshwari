@@ -1,12 +1,14 @@
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;Welcome+to+My+Profile;I+am+Atharva+Maheshwari;&center=true&size=27">
   </a>
 </h1>
 
+<h1 align="center">Student by Profession, Hustler by Passion !!</h1>
 
+<p align="center">
+  <img src="https://github.com/raklaptudirm/raklaptudirm/blob/main/robot.svg">
+</p>
 
 <h1 align="center"> Skills & Tools </h1>
 
