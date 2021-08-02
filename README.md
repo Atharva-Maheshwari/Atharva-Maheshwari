@@ -1,8 +1,12 @@
-# Hello, World ! Welcome to My Profile !!
-## I'm Atharva Maheshwari .... Student by Profession, Hustler by Passion!!
-<p align="center">
-  <img src="https://github.com/raklaptudirm/raklaptudirm/blob/main/robot.svg">
-</p>
+
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;Welcome+to+My+Profile;I'm+Atharva+Maheshwari+....;Student+by+Profession;Hustler+by+Passion;&center=true&size=27">
+  </a>
+</h1>
+
+
 
 <h1 align="center"> Skills & Tools </h1>
 
