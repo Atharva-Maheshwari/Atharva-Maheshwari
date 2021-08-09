@@ -18,15 +18,8 @@
 
 <h1 align="center"> Working on: </h1>
 <p align="center">
-  <a href="https://github.com/raklaptudirm/mvcs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raklaptudirm&repo=mvcs&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
-  <a href="https://github.com/raklaptudirm/Krypt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raklaptudirm&repo=Krypt&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
-  <br>
-  <a href="https://github.com/TheAlgorithms/Javascript">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Javascript&bg_color=0d1117&text_color=FFF&border_color=444">
+  <a href="https://github.com/Atharva-Maheshwari/Competitive-Programming">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva-Maheshwari&repo=Competitive-Programming&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
 </p>
 
