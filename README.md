@@ -1,3 +1,6 @@
+<a href="https://github.com/ESKYoung/shields-io-visitor-counter">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Atharva-Maheshwari.Atharva-Maheshwari&style=for-the-badge">
+<a>
 <h1 align="center">Student by Profession, Hustler by Passion !!</h1><hr>
 
 <h1 align="center">
@@ -56,7 +59,3 @@
 <hr>
 
 <h6 align="center"> The widgets on my <code>README.md</code> are works of many other contributers. Click on the widgets to use them yourself. </h6>
-
-<a href="https://github.com/ESKYoung/shields-io-visitor-counter">
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Atharva-Maheshwari.Atharva-Maheshwari&style=for-the-badge">
-<a>
