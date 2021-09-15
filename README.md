@@ -24,6 +24,9 @@
   <a href="https://github.com/Atharva-Maheshwari/Competitive-Programming">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva-Maheshwari&repo=Competitive-Programming&bg_color=0d1117&text_color=FFF&border_color=444">
   </a>
+  <a href="https://github.com/Atharva-Maheshwari/Robo_Run_Chrome_Extension">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Atharva-Maheshwari&repo=Robo_Run_Chrome_Extension&bg_color=0d1117&text_color=FFF&border_color=444">
+  </a>
 </p>
 
 <h1 align="center"> Skills & Tools </h1>
