@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/raklaptudirm/raklaptudirm/blob/main/robot.svg">
+  <img src="https://github.com/Atharva-Maheshwari/Atharva-Maheshwari/blob/main/robot.svg">
 </p>
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
