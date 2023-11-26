@@ -1,7 +1,7 @@
 <a href="https://github.com/ESKYoung/shields-io-visitor-counter">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Atharva-Maheshwari.Atharva-Maheshwari&style=for-the-badge">
 <a>
-<h1 align="center">Student by Profession, Hustler by Passion !!</h1><hr>
+<h1 align="center">Software Developer & Designer !! </h1><hr>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
